@@ -32,6 +32,9 @@ The LLM Comparator app allows users to input text and receive responses from two
     pip install -r requirements.txt
     ```
 
+4. You would need a Groq API key. You can go to `https://console.groq.com/` and register for a free API key.
+
+
 ## Usage
 
 1. Run the Streamlit app:
