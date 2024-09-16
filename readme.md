@@ -1,6 +1,6 @@
 # LLM Comparator
 
-This repository contains an application designed to compare two different Large Language Models (LLMs) provided by Groq [https://console.groq.com/].
+This repository contains an application designed to compare two different Large Language Models (LLMs) provided by [Groq](https://console.groq.com/).
 
 ## Overview
 
