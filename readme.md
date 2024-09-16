@@ -46,9 +46,7 @@ The LLM Comparator app allows users to input text and receive responses from two
 
 3. Add your Groq API key in the sidebar.
 
-4. Select models to compare.
-
-5. [Optional] You can use a comparator model to expand on the analysis.
+4. Select models to compare. [Optional] You can use a comparator model to expand on the analysis.
 
 ## Contributing
 
