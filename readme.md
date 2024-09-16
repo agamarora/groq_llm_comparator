@@ -44,6 +44,12 @@ The LLM Comparator app allows users to input text and receive responses from two
 
 2. Open your web browser and navigate to `http://localhost:8501` to use the app.
 
+3. Add your Groq API key in the sidebar.
+
+4. Select models to compare.
+
+5. [Optional] You can use a comparator model to expand on the analysis.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
